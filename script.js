@@ -239,7 +239,7 @@ function drawText() {
       );
     } else {
       context.fillText(
-        "and yet here I am to get the impossible chance to get to know you",
+        "and I want to be with you forever,Aishwarya..",
         canvas.width / 2,
         canvas.height / 2
       );
